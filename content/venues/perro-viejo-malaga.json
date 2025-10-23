@@ -1,0 +1,41 @@
+{
+  "slug": "perro-viejo-malaga",
+  "name": {
+    "es": "Perro Viejo Málaga",
+    "en": "Perro Viejo Málaga"
+  },
+  "city": "Málaga",
+  "neighborhood": "Centro Histórico",
+  "shortDescription": {
+    "es": "Taller creativo de tapas con guiños a la cocina nikkei y vinos naturales.",
+    "en": "Creative tapas workshop with Nikkei touches and natural wines."
+  },
+  "cuisine": ["Tapas", "Nikkei"],
+  "tags": ["tapas", "nikkei", "vino"],
+  "description": {
+    "es": "La versión malagueña de Perro Viejo explora sabores costeros y técnicas nikkei. Ideal para compartir platos pequeños acompañados de vinos vibrantes.",
+    "en": "The Málaga edition of Perro Viejo explores coastal flavours and Nikkei techniques. Perfect for sharing small plates alongside vibrant wines."
+  },
+  "hours": {
+    "es": "Jueves a lunes de 13:00 a 00:00",
+    "en": "Thursday to Monday from 1:00 p.m. to midnight"
+  },
+  "address": "Calle Beatas 32, 29008 Málaga",
+  "phone": "+34 952 88 77 44",
+  "reservationUrl": "https://perroviejomalaga.reservas.es",
+  "instagramUrl": "https://instagram.com/perroviejomalaga",
+  "images": [
+    "/images/perro-viejo-malaga-1.jpg",
+    "/images/perro-viejo-malaga-2.jpg",
+    "/images/perro-viejo-malaga-3.jpg"
+  ],
+  "coordinates": {
+    "lat": 36.7229,
+    "lng": -4.4197
+  },
+  "menu": {
+    "es": "### Para compartir\n- Tiradito de corvina\n- Gyoza de chivo malagueño\n- Bao de calamar y ají amarillo\n- Mochi de mango",
+    "en": "### To share\n- Corvina tiradito\n- Malagueño goat gyoza\n- Squid bao with ají amarillo\n- Mango mochi"
+  },
+  "servesCuisine": "Tapas Nikkei"
+}

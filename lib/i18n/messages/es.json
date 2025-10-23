@@ -1,0 +1,149 @@
+{
+  "brand": {
+    "name": "Grupo Andalucía"
+  },
+  "meta": {
+    "title": "Grupo Andalucía",
+    "description": "Grupo de restaurantes contemporáneos en Sevilla y Málaga."
+  },
+  "nav": {
+    "about": "Sobre el Grupo",
+    "restaurants": "Restaurantes",
+    "reservations": "Reservas",
+    "careers": "Trabaja",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Cocina de mercado en el corazón de Andalucía.",
+    "description": "Descubre experiencias gastronómicas que celebran la temporada, el producto local y la hospitalidad cálida.",
+    "cta": "Reservar"
+  },
+  "home": {
+    "featuredTitle": "Restaurantes destacados",
+    "featuredSubtitle": "Siete espacios con personalidad propia y una filosofía compartida.",
+    "pressQuote": "\"Una referencia imprescindible para quienes buscan la nueva cocina andaluza.\"",
+    "pressSource": "Revista Sabores del Sur",
+    "storyTitle": "Sabores que cuentan historias",
+    "storyBody": "Desde el bullicio del centro sevillano hasta la brisa del Mediterráneo en Málaga, cada uno de nuestros restaurantes interpreta la tradición con técnicas actuales y un servicio cercano.",
+    "ctaExplore": "Ver todos los restaurantes"
+  },
+  "buttons": {
+    "reserve": "Reservar",
+    "viewDetails": "Ver ficha",
+    "bookTable": "Reservar mesa",
+    "viewMenu": "Ver carta"
+  },
+  "filter": {
+    "title": "Filtrar por",
+    "city": "Ciudad",
+    "cuisine": "Cocina",
+    "allCities": "Todas las ciudades",
+    "allCuisines": "Todas las cocinas",
+    "clear": "Limpiar filtros"
+  },
+  "restaurants": {
+    "title": "Restaurantes",
+    "intro": "Explora nuestra colección de espacios gastronómicos. Filtra por ciudad o estilo culinario y encuentra el ambiente perfecto.",
+    "empty": "No hay restaurantes que coincidan con tu búsqueda."
+  },
+  "reservations": {
+    "title": "Reservas",
+    "intro": "Selecciona el restaurante y accede directamente a su sistema de reservas.",
+    "cityLabel": "Ciudad"
+  },
+  "venue": {
+    "hours": "Horario",
+    "address": "Dirección",
+    "phone": "Teléfono",
+    "menu": "Carta",
+    "instagram": "Instagram",
+    "mapAlt": "Mapa del restaurante",
+    "back": "Volver a restaurantes"
+  },
+  "about": {
+    "title": "Sobre el Grupo",
+    "intro": "Somos un grupo de restauración nacido en Sevilla con el objetivo de mostrar una Andalucía vibrante, creativa y sostenible.",
+    "story": {
+      "heading": "Nuestra historia",
+      "body": "Iniciamos nuestro viaje en 2014 con un pequeño espacio dedicado a la tapa contemporánea. Hoy gestionamos siete conceptos gastronómicos que comparten una misma base: producto local, respeto por la tradición y un servicio amable.",
+      "body2": "Trabajamos con productores andaluces, incorporamos técnicas actuales y mantenemos un firme compromiso con la sostenibilidad y la comunidad."
+    },
+    "philosophy": {
+      "heading": "Filosofía",
+      "points": [
+        "Cocina de temporada que cambia al ritmo del mercado.",
+        "Espacios diseñados para compartir con familia y amigos.",
+        "Equipos apasionados por la hospitalidad."
+      ]
+    },
+    "press": {
+      "heading": "Lo que dice la prensa",
+      "quotes": [
+        {
+          "quote": "\"Una declaración de amor al producto andaluz con una puesta en escena contemporánea.\"",
+          "source": "GastroVogue"
+        },
+        {
+          "quote": "\"Cada local ofrece una personalidad propia sin perder la esencia del grupo.\"",
+          "source": "El Comensal"
+        }
+      ]
+    }
+  },
+  "careers": {
+    "title": "Trabaja con nosotros",
+    "intro": "Únete a un equipo apasionado por la hospitalidad.",
+    "description": "Buscamos talento creativo, curioso y comprometido con ofrecer un servicio memorable.",
+    "benefitsTitle": "Beneficios",
+    "benefits": [
+      "Planes de formación continua",
+      "Equipo multicultural y colaborativo",
+      "Comidas de personal con productos locales",
+      "Programas de bienestar y equilibrio"
+    ],
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "role": "Área de interés",
+      "message": "Mensaje",
+      "cv": "CV (enlace opcional)",
+      "submit": "Enviar solicitud",
+      "success": "Gracias por tu interés. Nos pondremos en contacto pronto."
+    }
+  },
+  "contact": {
+    "title": "Contacto",
+    "intro": "Estamos disponibles para colaboraciones, prensa y eventos privados.",
+    "hq": "Oficinas centrales",
+    "hours": "Horario",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electrónico",
+      "message": "Mensaje",
+      "submit": "Enviar mensaje",
+      "success": "Gracias por escribirnos."
+    }
+  },
+  "footer": {
+    "cities": "Ciudades",
+    "quickLinks": "Enlaces",
+    "social": "Redes",
+    "cookies": "Política de cookies",
+    "rights": "© {year} Grupo Andalucía. Todos los derechos reservados."
+  },
+  "cookieBanner": {
+    "message": "Usamos cookies para mejorar tu experiencia. Puedes obtener más información en nuestra política de cookies.",
+    "accept": "Aceptar",
+    "learnMore": "Más información"
+  },
+  "common": {
+    "loading": "Cargando",
+    "all": "Todos",
+    "back": "Volver"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "description": "La página que buscas no existe o fue movida.",
+    "backHome": "Volver al inicio"
+  }
+}
