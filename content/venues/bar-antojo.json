@@ -1,0 +1,41 @@
+{
+  "slug": "bar-antojo",
+  "name": {
+    "es": "Bar Antojo",
+    "en": "Bar Antojo"
+  },
+  "city": "Sevilla",
+  "neighborhood": "Alameda",
+  "shortDescription": {
+    "es": "Taberna moderna con tapas clásicas y vermut artesano.",
+    "en": "Modern tavern with classic tapas and house vermouth."
+  },
+  "cuisine": ["Taberna", "Tradicional"],
+  "tags": ["vermut", "terraza", "casero"],
+  "description": {
+    "es": "Bar Antojo reinterpreta la taberna sevillana con tapas elaboradas al momento y una selección de vermuts y aperitivos de pequeños productores.",
+    "en": "Bar Antojo reimagines the Sevillian tavern with made-to-order tapas and a selection of vermouths and aperitifs from small producers."
+  },
+  "hours": {
+    "es": "Lunes a sábado de 12:30 a 00:00",
+    "en": "Monday to Saturday from 12:30 p.m. to midnight"
+  },
+  "address": "Calle Calatrava 44, 41002 Sevilla",
+  "phone": "+34 954 21 43 65",
+  "reservationUrl": "https://barantojo.reservas.es",
+  "instagramUrl": "https://instagram.com/barantojo",
+  "images": [
+    "/images/bar-antojo-1.jpg",
+    "/images/bar-antojo-2.jpg",
+    "/images/bar-antojo-3.jpg"
+  ],
+  "coordinates": {
+    "lat": 37.4012,
+    "lng": -5.9958
+  },
+  "menu": {
+    "es": "### Tapas\n- Ensaladilla con ventresca\n- Montadito de pringá\n- Cazón en adobo\n- Torrija con helado de canela",
+    "en": "### Tapas\n- Potato salad with tuna belly\n- Pringá slider\n- Marinated dogfish\n- Brioche French toast with cinnamon ice cream"
+  },
+  "servesCuisine": "Modern tavern"
+}

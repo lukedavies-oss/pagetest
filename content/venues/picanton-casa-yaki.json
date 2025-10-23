@@ -1,0 +1,41 @@
+{
+  "slug": "picanton-casa-yaki",
+  "name": {
+    "es": "Picantón & Casa Yaki",
+    "en": "Picantón & Casa Yaki"
+  },
+  "city": "Sevilla",
+  "neighborhood": "Centro",
+  "shortDescription": {
+    "es": "Fuego, brasas y sabores viajados inspirados en Asia y Latinoamérica.",
+    "en": "Fire, charcoal and globetrotting flavours inspired by Asia and Latin America."
+  },
+  "cuisine": ["Brasa", "Fusión"],
+  "tags": ["parrilla", "picante", "cócteles"],
+  "description": {
+    "es": "Picantón & Casa Yaki combina la técnica de la robata con recetas callejeras. Los sabores ahumados se equilibran con salsas frescas y fermentados caseros.",
+    "en": "Picantón & Casa Yaki blends robata grilling with street food classics. Smoky flavours meet bright sauces and house ferments."
+  },
+  "hours": {
+    "es": "Martes a domingo de 13:30 a 00:30",
+    "en": "Tuesday to Sunday from 1:30 p.m. to 12:30 a.m."
+  },
+  "address": "Calle San Eloy 47, 41001 Sevilla",
+  "phone": "+34 955 67 89 01",
+  "reservationUrl": "https://picanton.reservas.es",
+  "instagramUrl": "https://instagram.com/picantoncasayaki",
+  "images": [
+    "/images/picanton-1.jpg",
+    "/images/picanton-2.jpg",
+    "/images/picanton-3.jpg"
+  ],
+  "coordinates": {
+    "lat": 37.3906,
+    "lng": -5.9992
+  },
+  "menu": {
+    "es": "### Propuesta\n- Yakitori de pollo de corral\n- Bao de cochinita\n- Costilla glaseada con guayaba\n- Piña asada con lima",
+    "en": "### Offering\n- Free-range chicken yakitori\n- Cochinita bao\n- Guava glazed ribs\n- Charred pineapple with lime"
+  },
+  "servesCuisine": "Latin Asian fusion"
+}

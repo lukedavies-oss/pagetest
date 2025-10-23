@@ -1,0 +1,41 @@
+{
+  "slug": "perro-viejo",
+  "name": {
+    "es": "Perro Viejo",
+    "en": "Perro Viejo"
+  },
+  "city": "Sevilla",
+  "neighborhood": "Centro",
+  "shortDescription": {
+    "es": "Tapas creativas y producto local en un ambiente vibrante.",
+    "en": "Creative tapas and local produce in a vibrant setting."
+  },
+  "cuisine": ["Tapas creativas", "Andaluza contemporánea"],
+  "tags": ["tapas", "vino natural", "compartir"],
+  "description": {
+    "es": "Perro Viejo ofrece una propuesta desenfadada donde la tradición andaluza se combina con guiños internacionales. Una carta que evoluciona cada temporada y una barra de vinos con productores artesanos.",
+    "en": "Perro Viejo delivers a laid-back proposal where Andalusian tradition meets global influences. The menu evolves each season and the wine bar spotlights artisan producers."
+  },
+  "hours": {
+    "es": "Lunes a domingo de 13:00 a 00:00",
+    "en": "Monday to Sunday from 1:00 p.m. to midnight"
+  },
+  "address": "Calle Arguijo 3, 41003 Sevilla",
+  "phone": "+34 954 56 78 12",
+  "reservationUrl": "https://reservas.perroviejo.es",
+  "instagramUrl": "https://instagram.com/perroviejosevilla",
+  "images": [
+    "/images/perro-viejo-1.jpg",
+    "/images/perro-viejo-2.jpg",
+    "/images/perro-viejo-3.jpg"
+  ],
+  "coordinates": {
+    "lat": 37.3918,
+    "lng": -5.9936
+  },
+  "menu": {
+    "es": "### Nuestra carta\n- Croquetas de rabo de toro\n- Bao de pringá\n- Arroz meloso de calabaza\n- Tarta de queso payoyo",
+    "en": "### Our menu\n- Oxtail croquettes\n- Pringá bao bun\n- Creamy pumpkin rice\n- Payoyo cheesecake"
+  },
+  "servesCuisine": "Andalusian contemporary"
+}

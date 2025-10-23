@@ -1,0 +1,41 @@
+{
+  "slug": "verde-limon",
+  "name": {
+    "es": "Verde Limón",
+    "en": "Verde Limón"
+  },
+  "city": "Málaga",
+  "neighborhood": "Soho",
+  "shortDescription": {
+    "es": "Cocina vegetal creativa con brunch de fin de semana y repostería natural.",
+    "en": "Creative plant-based cuisine with weekend brunch and natural pastries."
+  },
+  "cuisine": ["Vegetal", "Brunch"],
+  "tags": ["plant-based", "brunch", "pastelería"],
+  "description": {
+    "es": "Verde Limón ofrece una propuesta vegetal con ingredientes ecológicos, fermentaciones propias y café de especialidad.",
+    "en": "Verde Limón offers a plant-led proposal featuring organic ingredients, house ferments and specialty coffee."
+  },
+  "hours": {
+    "es": "Miércoles a domingo de 09:00 a 17:00",
+    "en": "Wednesday to Sunday from 9:00 a.m. to 5:00 p.m."
+  },
+  "address": "Calle Tomás Heredia 14, 29001 Málaga",
+  "phone": "+34 951 33 22 11",
+  "reservationUrl": "https://verdelimon.reservas.es",
+  "instagramUrl": "https://instagram.com/verdelimon",
+  "images": [
+    "/images/verde-limon-1.jpg",
+    "/images/verde-limon-2.jpg",
+    "/images/verde-limon-3.jpg"
+  ],
+  "coordinates": {
+    "lat": 36.7178,
+    "lng": -4.4211
+  },
+  "menu": {
+    "es": "### Clásicos\n- Tostada de aguacate y tomate confitado\n- Bowl de quinoa, kale y cítricos\n- Pancakes de espelta con frutos rojos\n- Tarta cruda de cacao",
+    "en": "### Classics\n- Avocado toast with confit tomato\n- Quinoa, kale & citrus bowl\n- Spelt pancakes with berries\n- Raw cacao tart"
+  },
+  "servesCuisine": "Plant-based brunch"
+}

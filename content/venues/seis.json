@@ -1,0 +1,41 @@
+{
+  "slug": "seis",
+  "name": {
+    "es": "Seis",
+    "en": "Seis"
+  },
+  "city": "Sevilla",
+  "neighborhood": "Centro",
+  "shortDescription": {
+    "es": "Alta cocina relajada con enfoque vegetal y coctelería de autor.",
+    "en": "Relaxed fine dining with a plant-forward focus and signature cocktails."
+  },
+  "cuisine": ["Alta cocina", "Vegetal"],
+  "tags": ["degustación", "coctelería", "vegetal"],
+  "description": {
+    "es": "Seis celebra la temporalidad con menús degustación que cambian según el huerto y el mar. La barra propone coctelería de autor inspirada en ingredientes andaluces.",
+    "en": "Seis celebrates seasonality with tasting menus that follow the rhythm of the garden and the sea. The bar serves signature cocktails inspired by Andalusian ingredients."
+  },
+  "hours": {
+    "es": "Miércoles a domingo de 14:00 a 23:30",
+    "en": "Wednesday to Sunday from 2:00 p.m. to 11:30 p.m."
+  },
+  "address": "Plaza Nueva 6, 41001 Sevilla",
+  "phone": "+34 955 12 34 56",
+  "reservationUrl": "https://seis.reservas.es",
+  "instagramUrl": "https://instagram.com/seis_restaurante",
+  "images": [
+    "/images/seis-1.jpg",
+    "/images/seis-2.jpg",
+    "/images/seis-3.jpg"
+  ],
+  "coordinates": {
+    "lat": 37.3863,
+    "lng": -5.9929
+  },
+  "menu": {
+    "es": "### Degustación de temporada\n- Ostra al fino de Jerez\n- Alcachofa glaseada con amontillado\n- Corvina de la lonja\n- Chocolate, aceite de oliva y tomillo",
+    "en": "### Seasonal tasting\n- Oyster with fino sherry\n- Glazed artichoke with amontillado\n- Market corvina\n- Chocolate, olive oil & thyme"
+  },
+  "servesCuisine": "Seasonal tasting"
+}

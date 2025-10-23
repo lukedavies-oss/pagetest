@@ -1,0 +1,149 @@
+{
+  "brand": {
+    "name": "Andalucía Group"
+  },
+  "meta": {
+    "title": "Andalucía Restaurant Group",
+    "description": "Contemporary restaurant group in Seville and Málaga."
+  },
+  "nav": {
+    "about": "About",
+    "restaurants": "Restaurants",
+    "reservations": "Reservations",
+    "careers": "Careers",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Seasonal cuisine in the heart of Andalusia.",
+    "description": "Discover dining experiences that celebrate the seasons, local produce and heartfelt hospitality.",
+    "cta": "Book a table"
+  },
+  "home": {
+    "featuredTitle": "Featured restaurants",
+    "featuredSubtitle": "Seven venues with their own personality and a shared philosophy.",
+    "pressQuote": "\"An essential reference for anyone seeking the new Andalusian cuisine.\"",
+    "pressSource": "Sabores del Sur Magazine",
+    "storyTitle": "Flavours with a story",
+    "storyBody": "From the bustle of Seville's historic centre to the Mediterranean breeze in Málaga, each restaurant reimagines tradition with modern techniques and warm service.",
+    "ctaExplore": "View all restaurants"
+  },
+  "buttons": {
+    "reserve": "Reserve",
+    "viewDetails": "View profile",
+    "bookTable": "Book a table",
+    "viewMenu": "View menu"
+  },
+  "filter": {
+    "title": "Filter by",
+    "city": "City",
+    "cuisine": "Cuisine",
+    "allCities": "All cities",
+    "allCuisines": "All cuisines",
+    "clear": "Reset filters"
+  },
+  "restaurants": {
+    "title": "Restaurants",
+    "intro": "Explore our collection of dining concepts. Filter by city or culinary style to find the perfect atmosphere.",
+    "empty": "No restaurants match your filters."
+  },
+  "reservations": {
+    "title": "Reservations",
+    "intro": "Choose a venue and jump straight to its booking platform.",
+    "cityLabel": "City"
+  },
+  "venue": {
+    "hours": "Hours",
+    "address": "Address",
+    "phone": "Phone",
+    "menu": "Menu",
+    "instagram": "Instagram",
+    "mapAlt": "Restaurant map",
+    "back": "Back to restaurants"
+  },
+  "about": {
+    "title": "About the Group",
+    "intro": "We are a restaurant group born in Seville to showcase a vibrant, creative and sustainable Andalusia.",
+    "story": {
+      "heading": "Our story",
+      "body": "We began in 2014 with a small space devoted to contemporary tapas. Today we manage seven culinary concepts with the same foundation: local produce, respect for tradition and genuine service.",
+      "body2": "We work with Andalusian producers, incorporate modern techniques and maintain a firm commitment to sustainability and community."
+    },
+    "philosophy": {
+      "heading": "Philosophy",
+      "points": [
+        "Seasonal cooking that evolves with the market.",
+        "Spaces designed for sharing with family and friends.",
+        "Teams driven by a passion for hospitality."
+      ]
+    },
+    "press": {
+      "heading": "Press highlights",
+      "quotes": [
+        {
+          "quote": "\"A love letter to Andalusian produce with a contemporary stage.\"",
+          "source": "GastroVogue"
+        },
+        {
+          "quote": "\"Each venue delivers its own personality without losing the group's essence.\"",
+          "source": "El Comensal"
+        }
+      ]
+    }
+  },
+  "careers": {
+    "title": "Careers",
+    "intro": "Join a team that lives and breathes hospitality.",
+    "description": "We look for creative, curious talent committed to offering memorable service.",
+    "benefitsTitle": "Benefits",
+    "benefits": [
+      "Continuous training plans",
+      "Multicultural, collaborative team",
+      "Staff meals featuring local produce",
+      "Wellbeing and balance programs"
+    ],
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "role": "Role of interest",
+      "message": "Message",
+      "cv": "CV (optional link)",
+      "submit": "Send application",
+      "success": "Thank you for reaching out. We'll be in touch soon."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "We're available for collaborations, press and private events.",
+    "hq": "Head office",
+    "hours": "Hours",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send message",
+      "success": "Thanks for your message."
+    }
+  },
+  "footer": {
+    "cities": "Cities",
+    "quickLinks": "Links",
+    "social": "Social",
+    "cookies": "Cookies policy",
+    "rights": "© {year} Andalucía Group. All rights reserved."
+  },
+  "cookieBanner": {
+    "message": "We use cookies to enhance your experience. Learn more in our cookies policy.",
+    "accept": "Accept",
+    "learnMore": "Learn more"
+  },
+  "common": {
+    "loading": "Loading",
+    "all": "All",
+    "back": "Back"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you're looking for doesn't exist or was moved.",
+    "backHome": "Return home"
+  }
+}

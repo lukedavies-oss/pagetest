@@ -1,0 +1,41 @@
+{
+  "slug": "pez-tomillo",
+  "name": {
+    "es": "Pez Tomillo",
+    "en": "Pez Tomillo"
+  },
+  "city": "Málaga",
+  "neighborhood": "Pedregalejo",
+  "shortDescription": {
+    "es": "Chiringuito contemporáneo con pescado de lonja y brasas mediterráneas.",
+    "en": "Contemporary beachside dining with market fish and Mediterranean grilling."
+  },
+  "cuisine": ["Marinera", "Mediterránea"],
+  "tags": ["mar", "brasa", "arroces"],
+  "description": {
+    "es": "Pez Tomillo mira al mar para crear arroces, espetos y pescados al josper. Una terraza luminosa y cócteles frescos acompañan la propuesta.",
+    "en": "Pez Tomillo looks to the sea for rice dishes, espetos and Josper-grilled fish. A sunlit terrace and refreshing cocktails complete the experience."
+  },
+  "hours": {
+    "es": "Todos los días de 12:30 a 00:30",
+    "en": "Open daily from 12:30 p.m. to 12:30 a.m."
+  },
+  "address": "Paseo Marítimo El Pedregal 64, 29017 Málaga",
+  "phone": "+34 952 21 09 87",
+  "reservationUrl": "https://peztomillo.reservas.es",
+  "instagramUrl": "https://instagram.com/peztomillo",
+  "images": [
+    "/images/pez-tomillo-1.jpg",
+    "/images/pez-tomillo-2.jpg",
+    "/images/pez-tomillo-3.jpg"
+  ],
+  "coordinates": {
+    "lat": 36.7223,
+    "lng": -4.3742
+  },
+  "menu": {
+    "es": "### Del mar\n- Espectacular de sardinas\n- Arroz de carabinero\n- Lubina a la brasa con mojo verde\n- Tarta cítrica",
+    "en": "### From the sea\n- Sardine espeto\n- Scarlet prawn rice\n- Charcoal sea bass with green mojo\n- Citrus tart"
+  },
+  "servesCuisine": "Mediterranean seafood"
+}
